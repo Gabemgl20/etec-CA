@@ -1,0 +1,7 @@
+fazer no vbBasic
+subtração
+divsão
+mutplicação
+area do quadrado
+area do retangulo
+area do triangulo
